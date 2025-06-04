@@ -13,7 +13,7 @@
 
 🔍 Eager to contribute to impactful projects and grow as a software developer.
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1201yPcDXrNufOz-ujjTono5PJD9CRyjN/view?usp=sharing)  [![LeetCode View](https://img.shields.io/badge/LeetCode-View-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Syed_Anwar_leetcode/) 
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1gD9DNw_0CXBLBOlPB8tBx7zwvzK1-D2K/view?usp=drivesdk)  [![LeetCode View](https://img.shields.io/badge/LeetCode-View-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Syed_Anwar_leetcode/) 
 [![GeeksforGeeks View](https://img.shields.io/badge/GeeksforGeeks-View-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/001syed69hk/)
 
 ## 🌐 Socials:
