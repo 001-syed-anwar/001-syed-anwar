@@ -15,7 +15,8 @@
 
 [![LeetCode View](https://img.shields.io/badge/LeetCode-View-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Syed_Anwar_leetcode/) 
 [![GeeksforGeeks View](https://img.shields.io/badge/GeeksforGeeks-View-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/001syed69hk/)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1_ImQW5_uVeYZgX-7v8u3ojzoUIFJhsbO/view?usp=sharing)
+[![Portfolio]
+(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-syed-anwar.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-anwar-161b04273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:001syedanwar@gmail.com) 
