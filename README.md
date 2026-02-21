@@ -4,9 +4,6 @@
   src="https://media1.tenor.com/m/FPsODnFH-dEAAAAd/typing-fast.gif" 
   width="370" height="290">
 
-
-🎓 Recent Computer Science graduate actively seeking full-time opportunities.
-
 🚀 Hands-on experience building full-stack applications with Spring Boot and React.js.
 
 🧠 Intermediate in Data Structures & Algorithms with a strong problem-solving mindset.
